@@ -1,0 +1,9 @@
+com/vitec/translator/model/MessageRole.class
+com/vitec/Main.class
+com/vitec/translator/TranslatorApp.class
+com/vitec/translator/service/TranslationService.class
+com/vitec/translator/model/ChatCompletionResponse.class
+com/vitec/translator/model/ChatCompletionRequest.class
+com/vitec/translator/model/ChatCompletionMessage.class
+com/vitec/translator/model/ChatCompletionResponse$Usage.class
+com/vitec/translator/model/ChatCompletionResponse$Choice.class
